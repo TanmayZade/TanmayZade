@@ -1,6 +1,6 @@
-## Hi there 👋
+# Welcome to My Profile!👋
 
-![Home_GIF](https://github.com/TanmayZade/TanmayZade/assets/111640050/4abbd332-5359-4313-a2d2-b1dc29b595aa)
+![Home_GIF](https://github.com/TanmayZade/TanmayZade/assets/111640050/d5be96d8-88ae-4552-b907-0dab52076e42)
 
 <!--
 **TanmayZade/TanmayZade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
