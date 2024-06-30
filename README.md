@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Home_GIF](https://github.com/TanmayZade/TanmayZade/assets/111640050/4abbd332-5359-4313-a2d2-b1dc29b595aa)
+
 <!--
 **TanmayZade/TanmayZade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
