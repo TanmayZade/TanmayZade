@@ -1,4 +1,4 @@
-# Welcome to My Profile!👋
+# Hi, I'm Tanmay Zade👋
 ![Home_GIF](https://github.com/TanmayZade/TanmayZade/assets/111640050/bff88dc3-0523-4129-aadc-d477198938da)
 
 
