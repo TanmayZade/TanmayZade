@@ -11,6 +11,8 @@ I am a software developer with a passion for AI and Web Development Projects.
 ![Trophy](https://github-profile-trophy.vercel.app/?username=TanmayZade&theme=radical)
 ![Profile Views](https://komarev.com/ghpvc/?username=TanmayZade&color=blueviolet)
 
+## My LeetCode Progress
+![LeetCode Stats](https://leetcode.card.workers.dev/_tanmay_zade_?theme=dark&font=baloo&extension=activity)
 
 ## Connect with Me
 
