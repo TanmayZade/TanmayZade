@@ -5,10 +5,10 @@
 ## About Me
 I am a software developer with a passion for AI and Web Development Projects.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TanmayZade&show_icons=true&theme=radical)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TanmayZade&show_icons=true&theme=radical) -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TanmayZade&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayZade&layout=compact&theme=radical)
-![Trophy](https://github-profile-trophy.vercel.app/?username=TanmayZade&theme=radical)
+<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TanmayZade&layout=compact&theme=radical) -->
+<!--![Trophy](https://github-profile-trophy.vercel.app/?username=TanmayZade&theme=radical)  -->
 ![Profile Views](https://komarev.com/ghpvc/?username=TanmayZade&color=blueviolet)
 
 ## My LeetCode Progress
